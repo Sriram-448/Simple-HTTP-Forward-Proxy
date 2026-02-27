@@ -32,7 +32,7 @@ The goal is to understand the **flow of data between client → proxy → server
 ```
 simple-http-forward-proxy/
 │
-├── https_proxy.py   # Main proxy server
+├── http_proxy.py   # Main proxy server
 └── README.md        # Documentation
 ```
 
